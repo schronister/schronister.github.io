@@ -1,0 +1,22 @@
+body, html{
+    height:100%;
+    margin:0px;
+    background:#e8ecf2;
+}
+
+.parallax-container{
+    height:400px;
+}
+
+div.parallax > img{
+    height:150%;
+}
+
+td>img{
+    vertical-align:middle;
+    padding-right:10px;
+}
+
+.slider .slides li img{
+    background-position: initial !important;
+}
