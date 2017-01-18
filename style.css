@@ -20,3 +20,18 @@ td>img{
 .slider .slides li img{
     background-position: initial !important;
 }
+
+.card-title{
+    background-color:white;
+    opacity: 0.9;
+    color:black !important;
+    padding:3px !important;
+    position:absolute;
+    bottom:5px !important;
+    left: 5px !important;
+
+}
+
+#imgDiv{
+    padding-top:10px;
+}
