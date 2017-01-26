@@ -48,7 +48,7 @@ td>img{
 
 #info {
     position:absolute;
-    top:500px;
+    top:400px;
     right:100px;
     color:white;
     -webkit-animation: fadein 8s; /* Safari, Chrome and Opera > 12.1 */
@@ -74,8 +74,10 @@ td>img{
     position:absolute;
     top:575px;
     color:white;
-    left:47%;
-    text-align: center;
+    text-align:center;
+    left:0;
+    right:0;
+    margin:10px auto;
     -webkit-animation: fadein 8s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 8s; /* Firefox < 16 */
         -ms-animation: fadein 8s; /* Internet Explorer */
